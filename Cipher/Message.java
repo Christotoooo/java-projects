@@ -34,6 +34,7 @@ public class Message {
   */
  public void print(){
   System.out.println(message);
+  System.out.println("OK");
  }
  
  /**
